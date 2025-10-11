@@ -180,6 +180,7 @@ pub fn help() {
 /* Unlisted commands:
 - Panic (why would we give this power)
 - Cecho (no space)
+- Secho (echo variation specifically for serial. Why bother?)
 - Halt (Not very useful, kinda weird to show off to the user.)
 probably nothing else...?
 */
@@ -491,3 +492,4 @@ pub fn handle_command(input: &str) {
         _ => console::write_line(&format!("Unknown command: {}", parts[0])),
     }
 }
+
