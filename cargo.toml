@@ -1,6 +1,0 @@
-[workspace]
-members = [
-    "os",
-    "kernel",
-]
-resolver = "2"
