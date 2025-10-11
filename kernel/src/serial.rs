@@ -4,7 +4,7 @@ use lazy_static::lazy_static;
 
 lazy_static! {
     static ref SERIAL1: Mutex<SerialPort> = {
-        let mut serial_port = unsafe { SerialPort::new(0x3F8) }; // COM1
+        let mut serial_port = unsafe { SerialPort::new(0x3F8) };
         serial_port.init();
         Mutex::new(serial_port)
     };
@@ -17,4 +17,5 @@ pub fn write(msg: &str) {
     }
     serial.send(b'\r');
     serial.send(b'\n');
+
 }
