@@ -1,5 +1,5 @@
 # Stratos-2
 
-Version uploaded is Project Rejuvenescence 2025.10.11. Specifically 1.A006.01.251011.EXENUS@cfc8a
+Version uploaded is Project Rejuvenescence 2025.10.31. Specifically 1.A009.02.251031.EXENUS@cfc8a
 
-<img width="1276" height="798" alt="image" src="https://github.com/user-attachments/assets/7226a934-3f08-42da-ab3e-71095d8a2774" />
+<img width="1273" height="799" alt="image" src="https://github.com/user-attachments/assets/143eaa3a-c64b-4306-afb3-9dfad5168e24" />
