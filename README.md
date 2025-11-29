@@ -12,3 +12,7 @@ As such, ⚠️ VERSION MAY HAVE INSTABILITIES ⚠️
 garbage boot splash screen:
 
 <img width="1276" height="791" alt="image" src="https://github.com/user-attachments/assets/afee8001-845e-40b5-a109-713553648248" />
+
+in a version **not even released** ***yet***:
+
+![gif](https://github.com/user-attachments/assets/8d24995d-80eb-4f9a-95fe-1e657665016d)
