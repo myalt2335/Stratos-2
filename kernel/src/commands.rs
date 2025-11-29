@@ -791,25 +791,6 @@ pub fn halt_cmd(args: &[&str]) {
     }
 }
 
-pub fn validation(args: &[&str]) {
-    let Some(cmd) = args.get(0) else {
-        console::write_line("?");
-        return;
-    };
-
-    match *cmd {
-        "me" => match args.get(1) {
-            Some(&"pls") => console::write_line("You are a very good boy"),
-            _ => console::write_line("Good boy."),
-        },
-
-        "you" => console::write_line("I am a good OS"),
-
-        _ => console::write_line("?"),
-    }
-}
-
-
 use x86_64::{
     instructions::{interrupts, tables::lidt},
     structures::idt::InterruptDescriptorTable,
@@ -927,7 +908,6 @@ pub fn handle_command(input: &str) {
         "about" => about(),
         "stratos" => funnybanner(),
         "make" => makel(&parts[1..]),
-        "validate" => validation(&parts[1..]),
         "c418" => console::write_line("Droopy Likes Your Face"),
         "clear" => clear(),
         "time" => time(),
@@ -1024,3 +1004,4 @@ pub fn handle_line(input: &str) {
         handle_command(&cmd);
     }
 }
+
