@@ -16,3 +16,4 @@ garbage boot splash screen:
 Unreleased:
 
 <img width="705" height="141" alt="image" src="https://github.com/user-attachments/assets/f1ba6be5-b224-45b8-ba8e-f4cf3236b5e9" />
+<img width="1291" height="814" alt="image" src="https://github.com/user-attachments/assets/aba5b8d3-0462-40f1-a5a4-7d8224425bf9" />
