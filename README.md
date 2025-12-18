@@ -12,3 +12,7 @@ garbage boot splash screen:
 <img width="1276" height="791" alt="image" src="https://github.com/user-attachments/assets/afee8001-845e-40b5-a109-713553648248" />
 
 ![gif](https://github.com/user-attachments/assets/8d24995d-80eb-4f9a-95fe-1e657665016d)
+
+Unreleased:
+
+<img width="705" height="141" alt="image" src="https://github.com/user-attachments/assets/f1ba6be5-b224-45b8-ba8e-f4cf3236b5e9" />
